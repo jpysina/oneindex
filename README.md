@@ -1,4 +1,7 @@
-# OneIndex
+---
+## （谜之音）由于pandownload事件，这只是那场战争的遗迹之一。技术虽中立，行车需仔细
+---
+# OneIndex_BACKUP ONLY
 Onedrive Directory Index
 
 ## 功能：
@@ -19,7 +22,7 @@ Onedrive Directory Index
 3、OneIndex 程序   
 
 ## 配置：
-<img width="658" alt="image" src="https://raw.githubusercontent.com/donwa/oneindex/files/images/install.gif">  
+原图床数据丢失
 
 ### 计划任务  
 [可选]**推荐配置**，非必需。后台定时刷新缓存，可增加前台访问的速度。  
